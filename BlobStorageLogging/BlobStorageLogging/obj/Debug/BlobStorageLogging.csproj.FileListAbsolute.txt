@@ -1,0 +1,17 @@
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\BlobStorageLogging.exe.config
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\BlobStorageLogging.exe
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\BlobStorageLogging.pdb
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Newtonsoft.Json.dll
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Newtonsoft.Json.xml
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\obj\Debug\BlobStorageLogging.csprojAssemblyReference.cache
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\obj\Debug\BlobStorageLogging.csproj.CoreCompileInputs.cache
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\obj\Debug\BlobStorageLogging.csproj.CopyComplete
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\obj\Debug\BlobStorageLogging.exe
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\obj\Debug\BlobStorageLogging.pdb
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Himani\Code\Azure\BlobStorageLogging\BlobStorageLogging\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
